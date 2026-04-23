@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "965165545103",
+    "project_id": "yourhour-3c57a",
+    "storage_bucket": "yourhour-3c57a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965165545103:android:4524e46c8e7949f9ce22fa",
+        "android_client_info": {
+          "package_name": "com.example.yourhour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xvf4oSlS9iKtZQUAu_FrsW1zkaa-mOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965165545103:android:42341a42121b2ae4ce22fa",
+        "android_client_info": {
+          "package_name": "com.yourhour.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xvf4oSlS9iKtZQUAu_FrsW1zkaa-mOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
